@@ -12,3 +12,10 @@ a lot of lectures are included and its get too long
 
 ## GIT and Githud training
 not bad explanation though 
+
+##GIT Comparison
+adding git comparison lecture in this training
+
+
+##Github conten comparison
+compare staging with repo
