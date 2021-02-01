@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Ayodeji Tade <twitter>
+     Ayodeji Tade
+	papeyscott@yahoo.com
+	devops learner
 
 # THANKS
 
