@@ -1,8 +1,13 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+
 	 Hi, I am modifying the file before rebase.
 
-Doing some changes in local
+
+	Hi, I am going to insert a conflict and my feature branch
+
+
+
 # TEAM
 
      Ayodeji Tade
