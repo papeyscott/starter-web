@@ -8,7 +8,8 @@ This is a git project we are using as a sample
 Sample website with plenty of files for demos
 
 ## Introduction
-a lot of lectures are included and its get too long
+a lot of lectures are included and its get too long.
+A lot of lectures are still coming on
 
 ## GIT and Githud training
 not bad explanation though 
