@@ -9,7 +9,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to the facilitators.
 
 # TECHNOLOGY COLOPHON
 
