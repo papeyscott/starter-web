@@ -25,4 +25,5 @@ Adding important notes on GIT Status
     jQuery, Modernizr
 
     machiner learning, AWS, Google cloud
+AWS Solution Architect Developer
 
