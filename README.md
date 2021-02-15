@@ -22,6 +22,7 @@ adding git comparison lecture in this training
 
 ##Github conten comparison
 compare staging with repo
+Addng new lectures on stash
 
 ##Contribution
 fork the repo and raise pullrequest for review
