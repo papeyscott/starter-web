@@ -7,7 +7,7 @@
 	Hi, I am going to insert a conflict and my feature branch
 
 
-
+Adding important notes on GIT Status
 # TEAM
 
      Ayodeji Tade
